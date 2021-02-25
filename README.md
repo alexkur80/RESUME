@@ -1,4 +1,4 @@
-# My CV and sertificates
+# My CV, sertificates, projects
 
 * Certificate Java Core: [IT-Academy certificate](https://cloud.mail.ru/public/4ibD/3A57T3uKn)
 * Certificate Java Enterprise Development: [IT-Academy certificate Java EE](https://cloud.mail.ru/public/2yUu/2cBxDXAYJ)
