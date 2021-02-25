@@ -5,5 +5,5 @@
 * Recommendations: [IT-Academy recommendation letter](https://cloud.mail.ru/public/AS8Q/B7uiiB5xn)
 * Project Servlets API + Layer tech: [Servlets API](https://github.com/aliakskur/ProjectServlet)
 * Project Spring + MVC + Hibernate: [Spring](https://github.com/aliakskur/ProjectSpring)
-
+* Salesforce Clinic project: [Salesforce Clinic app](https://github.com/aliakskur/Salesforce)
 
